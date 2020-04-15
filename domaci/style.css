@@ -1,0 +1,252 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.first {
+    margin-top: 20px;
+}
+
+#login {
+    color: antiquewhite;
+}
+
+.nav-item {
+    padding-right: 60px;
+}
+
+.text {
+   font-family: Verdana, Tahoma, sans-serif;
+   padding-top: 120px; 
+}
+
+.container {
+    padding-top: 90px;
+}
+
+h3 {
+    padding-left: 140px;
+}
+
+.features {
+    padding-left: 540px;
+    padding-top: 170px;
+} 
+  /* Style tab links */
+  .tablink {
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+    margin-left: 25px;
+  }
+
+  .tablink:hover {
+    border-bottom: 2px solid red;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+
+  .share {
+      padding-left: 50%;
+  }
+
+  .illustration-3 {
+      float: left;
+  }
+
+  .share {
+      display: block;
+  }
+
+  #text-2 {
+      color: black;
+      padding-left: 50%;
+  }
+
+  #new {
+      color: black;
+      padding-left: 50%;
+  }
+
+  #newbutton {
+    margin-left: 22%;
+  }
+
+  #image2 {
+      padding-left: 10%;
+  }
+
+  .second {
+      padding-left: 20%;
+  }
+
+  #text-3 {
+      padding-top: 5%;
+      padding-left: 30%;
+  }
+
+  .pipeline {
+      padding-left: 7%;
+  }
+
+  #card-2 {
+        margin-top: 40%;
+        margin-right: 360px;
+  }
+
+  .card {
+      box-shadow: 10px 10px gray;  
+      margin: auto;
+      padding: 1px;
+    }
+
+  #card-1 {
+     margin-top: 40%;
+     margin-left: 30px;
+ }
+
+ #chrome {
+     margin-left: 200px;
+ }
+
+ .all {
+     margin-left: 67px;
+ }
+
+ h5 {
+     margin-left: 20%;
+ }
+
+ .card-text {
+     margin-left: 20%;
+     color: gray;
+ }
+
+ #ext-1 {
+     margin-left: 10%;
+ }
+
+ 
+ #ext-2 {
+    margin-left: 10%;
+}
+ 
+ #ext-3 {
+    margin-left: 10%;
+}
+
+.container-1 {
+    margin-left: 550px;
+}
+
+.accordion {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    width: 50%;
+    margin-left: 400px;
+    border: 1px black solid;
+}
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color: #ccc;
+}
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    margin-left: 400px;
+  } 
+
+  .w3-container {
+      padding: 100px;
+      background-color: #0080ff;
+      color: white;  
+  }
+
+  .info {
+      padding-left: 100px;
+  }
+
+  .left {
+      margin-left: 320px;
+  }
+
+  #blue {
+      margin-left: 700px;
+      background-color: #2e2eb8;
+      color: white;
+  }
+
+  .form1 {
+      margin-left: 550px;
+  }
+
+  .navbar-nav > li{
+    padding-left:100px;
+  }
+
+  #bottom-nav {
+      background-color: #000080;
+  }
+
+  #one {
+      color: black;
+  }
+ 
+  #two {
+    color: black;
+  }
+ 
+  #three {
+    color: black;
+  }
+
+  #four {
+      color: white;
+  }
+ 
+  #five {
+    color: white;
+  } 
+
+  #six {
+     color: white;
+  }
+
+  #facebook {
+      margin-left: 400px;  
+    }
+
+    #facebook:hover {
+        cursor:pointer;
+        background-color: red;
+    }
+
+  #twitter {
+      padding-left: 20px;
+  }      
+
+  #twitter:hover {
+    cursor: pointer;
+  }
